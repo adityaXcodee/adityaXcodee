@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **adityaaiml24@gmail.com** For Collaboration/Project or Any
 - 😄 **Pronouns:** Aditya 
 - ⚡ **Fun fact:** I Love Tech, I Build with Tech, and Tech Keeps Me Curious 🚀
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-kumar-308809328/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaaiml24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/aditya-kumar-308809328/](https://www.linkedin.com/in/aditya-kumar-308809328/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityaaiml24@gmail.com)
 
 <!-- Snake Game Repo View -->
 
